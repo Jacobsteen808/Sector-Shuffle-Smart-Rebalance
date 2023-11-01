@@ -1,3 +1,11 @@
 # Sector Shuffle: Smart Rebalance contents
-- Sector rotation rebal strategy
-  - 
+- Sector rotation rebalance strategy in a 100% equity portfolio
+    - determine current business cycle
+- pull historical data for stock in past cycle rotation
+    - Use alpaca
+    - ?potentially use yfinance?
+- select new equities to rebalance portfolio
+    - statistical/quant analysis of new securities
+    - compared against whole sector etf
+    - ?potentially use pyfolio?
+    - compare returns for sector rotation
