@@ -1,4 +1,6 @@
 # Sector Shuffle: Smart Rebalance contents
+- Team: Jacob Steen, Richard Rosenthal, Gabriel Gyimah
+## Research Question: How effective would using statistical and quantitative analysis be when using code to rebalance a portfolio using the sector rotation theory?
 - Sector rotation rebalance strategy in a 100% equity portfolio
     - determine current business cycle
 - pull historical data for stock in past cycle rotation
