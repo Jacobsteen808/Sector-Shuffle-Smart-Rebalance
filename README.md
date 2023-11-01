@@ -1,3 +1,3 @@
-# project_1 contents
+# Sector Shuffle: Smart Rebalance contents
 - Sector rotation rebal strategy
   - 
