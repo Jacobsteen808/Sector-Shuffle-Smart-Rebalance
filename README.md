@@ -9,3 +9,6 @@
     - compared against whole sector etf
     - ?potentially use pyfolio?
     - compare returns for current sector rotation
+- Write a concluding report referencing findings to justify why these changes should be made to the portfolio
+    - refer to statistical and quantitative analysis
+    - use these findings to backup your reccomendations
