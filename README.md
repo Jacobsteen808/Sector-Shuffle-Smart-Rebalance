@@ -8,4 +8,4 @@
     - statistical/quant analysis of new securities
     - compared against whole sector etf
     - ?potentially use pyfolio?
-    - compare returns for sector rotation
+    - compare returns for current sector rotation
